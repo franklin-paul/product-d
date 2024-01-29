@@ -8,10 +8,11 @@
 ![20231215_193114 (1)](https://github.com/franklin-paul/product-d/assets/157861146/b51aaf37-2402-4384-a788-ea5d875abd5d)
 <br/><br/>
 #### INTRODUCTION:
-I created a Max patch (Cycling 74/Max4Live) 6 channel live sampler and drum sequencer with 4 channels of live looping. It has a massive suite of features, and I wanted to create a hardware controller designed from the ground-up to work with it in an intuitive and musical way. This is the Product D.
+This document provides an overview of Product D, a custom hardware controller meticulously designed to complement and control a Max patch (Cycling 74/Max4Live). Product D features a 6-channel live
+sampler and drum sequencer, alongside 4 channels of live looping, offering a robust suite of functionalities for a dynamic and intuitive musical experience. Product D was born from a vision to create a hardware interface that seamlessly integrates with its software counterpart, aiming to enhance the creative process for musicians and producers.
 <br/><br/>
 #### VIDEO DEMO:
-Since the Product D is so large, and the Max patch itself is also rather robust, I have provided a video that highlights some of the main features of each.
+Given the extensive features of both the Product D and the accompanying Max patch, I've prepared a comprehensive video demonstration. This video showcases key functionalities and highlights how these elements work together in a practical context.
 https://youtu.be/9CjlLabXJGk?si=WKS1RjFF124F9Jik
 <br/><br/>
 #### Link to detailed README with pictures:
