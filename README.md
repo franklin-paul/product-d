@@ -13,3 +13,6 @@ I created a Max patch (Cycling 74/Max4Live) 6 channel live sampler and drum sequ
 #### VIDEO DEMO:
 Since the Product D is so large, and the Max patch itself is also rather robust, I have provided a video that highlights some of the main features of each.
 https://youtu.be/9CjlLabXJGk?si=WKS1RjFF124F9Jik
+<br/><br/>
+#### Link to detailed README with pictures:
+https://github.com/franklin-paul/product-d/blob/main/Product%20D%20README.pdf
